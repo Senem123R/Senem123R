@@ -33,19 +33,142 @@
 
 ---
 
-<h3 align="center">Languages and Tools:</h3>
+<h2 align="center">🛠️ Languages & Tools</h2>
+
+<br/>
+
+<h3 align="center">💻 Programming Languages</h3>
 <p align="center">
-  <a href="https://azure.microsoft.com/en-in/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="40" height="40"/>
-  </a>
-  <a href="https://getbootstrap.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/Scar1109/skill-icons/main/icons/Bootstrap.svg" width="40" height="40"/>
-  </a>
-  <a href="https://www.chartjs.org" target="_blank">
-    <img src="https://www.chartjs.org/media/logo-title.svg" width="40" height="40"/>
-  </a>
+<table align="center">
+  <tr>
+    <td align="center" width="100">
+      <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45"/><br/>Python</a>
+    </td>
+    <td align="center" width="100">
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45"/><br/>JavaScript</a>
+    </td>
+    <td align="center" width="100">
+      <a href="https://www.w3schools.com/cpp/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45" height="45"/><br/>C++</a>
+    </td>
+    <td align="center" width="100">
+      <a href="https://www.mathworks.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="45" height="45"/><br/>MATLAB</a>
+    </td>
+  </tr>
+</table>
 </p>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/ExpressJS-Light.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Flask-Light.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/NextJS-Light.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/NodeJS-Light.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+
+<br/>
+
+<h3 align="center">🎨 Frontend Development</h3>
+<p align="center">
+<table align="center">
+  <tr>
+    <td align="center" width="100">
+      <a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="45" height="45"/><br/>HTML5</a>
+    </td>
+    <td align="center" width="100">
+      <a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="45" height="45"/><br/>CSS3</a>
+    </td>
+    <td align="center" width="100">
+      <a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="45" height="45"/><br/>React</a>
+    </td>
+    <td align="center" width="100">
+      <a href="https://nextjs.org/"><img src="https://raw.githubusercontent.com/Scar1109/skill-icons/main/icons/NextJS-Light.svg" width="45" height="45"/><br/>Next.js</a>
+    </td>
+    <td align="center" width="100">
+      <a href="https://getbootstrap.com"><img src="https://raw.githubusercontent.com/Scar1109/skill-icons/main/icons/Bootstrap.svg" width="45" height="45"/><br/>Bootstrap</a>
+    </td>
+    <td align="center" width="100">
+      <a href="https://www.chartjs.org"><img src="https://www.chartjs.org/media/logo-title.svg" width="45" height="45"/><br/>Chart.js</a>
+    </td>
+  </tr>
+</table>
+</p>
+
+<br/>
+
+<h3 align="center">⚙️ Backend Development</h3>
+<p align="center">
+<table align="center">
+  <tr>
+    <td align="center" width="100">
+      <a href="https://nodejs.org"><img src="https://raw.githubusercontent.com/Scar1109/skill-icons/main/icons/NodeJS-Light.svg" width="45" height="45"/><br/>Node.js</a>
+    </td>
+    <td align="center" width="100">
+      <a href="https://expressjs.com"><img src="https://raw.githubusercontent.com/Scar1109/skill-icons/main/icons/ExpressJS-Light.svg" width="45" height="45"/><br/>Express.js</a>
+    </td>
+    <td align="center" width="100">
+      <a href="https://flask.palletsprojects.com/"><img src="https://raw.githubusercontent.com/Scar1109/skill-icons/main/icons/Flask-Light.svg" width="45" height="45"/><br/>Flask</a>
+    </td>
+  </tr>
+</table>
+</p>
+
+<br/>
+
+<h3 align="center">🗄️ Databases</h3>
+<p align="center">
+<table align="center">
+  <tr>
+    <td align="center" width="100">
+      <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45" height="45"/><br/>MySQL</a>
+    </td>
+    <td align="center" width="100">
+      <a href="https://www.microsoft.com/en-us/sql-server"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="45" height="45"/><br/>MS SQL Server</a>
+    </td>
+  </tr>
+</table>
+</p>
+
+<br/>
+
+<h3 align="center">🤖 AI / ML & Data Science</h3>
+<p align="center">
+<table align="center">
+  <tr>
+    <td align="center" width="100">
+      <a href="https://www.tensorflow.org"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="45" height="45"/><br/>TensorFlow</a>
+    </td>
+    <td align="center" width="100">
+      <a href="https://pytorch.org/"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="45" height="45"/><br/>PyTorch</a>
+    </td>
+    <td align="center" width="100">
+      <a href="https://scikit-learn.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="45" height="45"/><br/>Scikit-learn</a>
+    </td>
+    <td align="center" width="100">
+      <a href="https://pandas.pydata.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" width="45" height="45"/><br/>Pandas</a>
+    </td>
+    <td align="center" width="100">
+      <a href="https://seaborn.pydata.org/"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="45" height="45"/><br/>Seaborn</a>
+    </td>
+    <td align="center" width="100">
+      <a href="https://spark.apache.org/docs/latest/api/python/"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" width="45" height="45"/><br/>PySpark</a>
+    </td>
+  </tr>
+</table>
+</p>
+
+<br/>
+
+<h3 align="center">🚀 DevOps & Tools</h3>
+<p align="center">
+<table align="center">
+  <tr>
+    <td align="center" width="100">
+      <a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="45" height="45"/><br/>Docker</a>
+    </td>
+    <td align="center" width="100">
+      <a href="https://azure.microsoft.com/en-in/"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="45" height="45"/><br/>Azure</a>
+    </td>
+    <td align="center" width="100">
+      <a href="https://postman.com"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="45" height="45"/><br/>Postman</a>
+    </td>
+    <td align="center" width="100">
+      <a href="https://www.figma.com/"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="45" height="45"/><br/>Figma</a>
+    </td>
+  </tr>
+</table>
+</p>
 
 <!--
 **Senem123R/Senem123R** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
